@@ -1,5 +1,8 @@
 # Dashboard
 
+![Dashboard](https://github.com/LaeeqAhmad88/Case-Study-Chain-of-Departmental-Stores-Analysis/assets/143387882/ee81b311-5198-4755-b085-08d7b93b9d68)
+
+
 # Case-Study-Chain-of-Departmental-Stores-Analysis
 
 
@@ -54,6 +57,9 @@ Here’s the framework I’ve created for conducting this case study.
 
 # Data Modelling
 **Star Schema**
+Employed a data schema using star schema approach to establish relationship between different tables.
+
+![star shema](https://github.com/LaeeqAhmad88/Case-Study-Chain-of-Departmental-Stores-Analysis/assets/143387882/f4c4eb20-b76e-4386-abc6-912565d4cc9e)
 
 
 **KPIs and Measures**
